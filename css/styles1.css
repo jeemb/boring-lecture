@@ -1,0 +1,16 @@
+.dark-background {
+  background-color: black;
+}
+
+.dark-background p {
+  color: white;
+}
+
+.light-background {
+  background-color: white;
+}
+
+.highlight {
+  background-color: yellow;
+  border-radius: 5px solid red;
+}
